@@ -1,0 +1,4 @@
+hash: dcee80d024ce0e9a230b3f8f573cd1fc
+id: 170
+shape: '[1, 7, 7, 128], [3, 3, 128, 32], [1, 7, 7, 32]'
+space: space170.json

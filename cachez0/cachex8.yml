@@ -1,0 +1,4 @@
+hash: cb7a0e9e733d26ffc00e7f6c9cc0f879
+id: 8
+shape: '[1, 28, 28, 144], [1, 1, 144, 32], [1, 1, 1, 32], [1, 28, 28, 32]'
+space: space8.json

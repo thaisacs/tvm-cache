@@ -1,0 +1,4 @@
+hash: cb7a0e9e733d26ffc00e7f6c9cc0f879
+id: 76
+shape: '[1, 28, 28, 72], [1, 1, 72, 40], [1, 1, 1, 40], [1, 28, 28, 40]'
+space: space76.json

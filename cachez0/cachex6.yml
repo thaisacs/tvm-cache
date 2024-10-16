@@ -1,0 +1,4 @@
+hash: cb7a0e9e733d26ffc00e7f6c9cc0f879
+id: 6
+shape: '[1, 14, 14, 384], [1, 1, 384, 96], [1, 1, 1, 96], [1, 14, 14, 96]'
+space: space6.json
